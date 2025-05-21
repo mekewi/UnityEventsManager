@@ -1,0 +1,12 @@
+using EventsSystem.Scripts.Observables;
+using UnityEngine;
+namespace ProjectArchitectureBase.Event
+{
+    [CreateAssetMenu(fileName = "#SCRIPTNAME#", menuName = "Events/#SCRIPTNAME#")]
+    public class #SCRIPTNAME# : Observable<#TYPE#>
+    {
+        public override void SetData(params object[] data)
+        {
+        }
+    }
+}

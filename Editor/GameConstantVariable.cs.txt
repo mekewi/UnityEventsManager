@@ -1,0 +1,9 @@
+using ProjectArchitectureBase.VariableBase;
+using UnityEngine;
+namespace ProjectArchitectureBase.Constant
+{
+    [CreateAssetMenu(menuName = "Constant/#TYPE#", fileName = "#SCRIPTNAME#")]
+    public class #SCRIPTNAME# : VariableBase<#TYPE#>
+    {
+    }
+}

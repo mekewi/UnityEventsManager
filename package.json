@@ -1,0 +1,19 @@
+{
+  "name": "com.rashad.unityeventsmanager",
+  "displayName": "Events Manager",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "author": {
+    "name": "Mohamed Rashad",
+    "email": "m.rashad.sm@gmail.com",
+    "url": "https://www.linkedin.com/in/mohamedmrashad/"
+  },
+  "samples": [
+    {
+      "displayName": "Events Manager",
+      "description": "Events Manager Based on Observer Pattern and Scriptableobject",
+      "path": "Samples~/"
+    }
+  ]
+}
